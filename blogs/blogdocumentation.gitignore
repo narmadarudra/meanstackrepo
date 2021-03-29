@@ -1,0 +1,6 @@
+1.There are 3 files 1.blog.html, 2.blog.css, 3. blog.js
+2.on Add Blog button click blogdetails shows at the bottom and simultaniously all inputs are cleared along with localstorage clearing.
+3.on clear blog button click blogdetails will be cleared.
+4.on second time Addblog button clicked alert will be shown to fill the details message.
+5.The link of myrepository for clonning https://github.com/narmadarudra/meanstackrepo.git
+6.git ignore file for documentation is blogs/blogdocumentation.gitignore

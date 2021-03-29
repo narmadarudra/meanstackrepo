@@ -1,0 +1,17 @@
+
+.wrapper{
+    width:100%;
+}.section-fields{
+    width:100%;
+}
+.box1{
+border:2px solid #828282;
+width:100%;
+background-color:azure;
+}
+
+#section-blog{
+    border:2px solid transparent;
+    width:30%;
+    padding:10px;
+}
